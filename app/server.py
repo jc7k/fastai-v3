@@ -13,7 +13,7 @@ export_file_url = 'https://www.dropbox.com/s/n3dudikr22ej1fb/export.pkl?dl=1'
 export_file_name = 'export.pkl'
 
 # classes = ['black', 'grizzly', 'teddys']
-classes = ['black', 'grizzly', 'teddys']
+classes = ['japanese_chin', 'samoyed', 'husky', 'maltese']
 path = Path(__file__).parent
 
 app = Starlette()
